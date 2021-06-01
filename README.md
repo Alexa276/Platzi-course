@@ -15,7 +15,7 @@
 
  * ```JavaScript es el lenguaje de la web, servidores, robots, etc```
 
-* parseInt(), redondea los numeros de tipo flotante a enteros 
+* parseInt(), combierte los numeros de tipo flotante a enteros 
 
 * Promt es para obtener datos del usuario, este tambien funciona igual que un alert.
 
@@ -24,3 +24,6 @@
 * Los espacios tambien son parte de las cadenas de texto y van dentro de comillas.
 
 * ParseFloat es lo contrario a parseInt.
+
+* ```\n dentro de un texto es un salto de linea en JS```. br en html.
+
