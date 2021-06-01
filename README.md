@@ -27,3 +27,10 @@
 
 * ```\n dentro de un texto es un salto de linea en JS```. br en html.
 
+* El navegador trae objetos predeterminados estos son:
+
+    * Navigator: Es el objeto que contiene las funciones del navegador, también te permite acceder también al sistema operativo como el gps, guardar datos en el disco duro, etc.
+    * Document: Es el objeto que contiene todo lo que vemos dentro de nuestra página.
+    * Window: Es el objeto que maneja cada una de las pestañas.
+
+* ``` DOM (Document Object Model) es la forma en que internamente el navegador organiza todo el HTML dentro de una estructura de árbol``` 
