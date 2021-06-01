@@ -34,3 +34,12 @@
     * Window: Es el objeto que maneja cada una de las pestañas.
 
 * ``` DOM (Document Object Model) es la forma en que internamente el navegador organiza todo el HTML dentro de una estructura de árbol``` 
+
+* *** Los metodos son funciones dentro de objetos*** 
+
+* ```charset: coleccion de caracteres o letras```
+
+* ***Depurar proceso de tratar de arreglar un error de codigo.***
+
+* Atributo o propiedad son variables internas que almacenan valores
+ 
