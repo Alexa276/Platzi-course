@@ -17,6 +17,10 @@
 
 * parseInt(), redondea los numeros de tipo flotante a enteros 
 
-* Promt es para obtener datos del usuario
+* Promt es para obtener datos del usuario, este tambien funciona igual que un alert.
 
 * ``` Cuando estamos declarando una variable primero ocurre lo de la derecha y luego la izquierda```
+
+* Los espacios tambien son parte de las cadenas de texto y van dentro de comillas.
+
+* ParseFloat es lo contrario a parseInt.
