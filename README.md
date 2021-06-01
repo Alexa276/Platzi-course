@@ -18,3 +18,5 @@
 * parseInt(), redondea los numeros de tipo flotante a enteros 
 
 * Promt es para obtener datos del usuario
+
+* ``` Cuando estamos declarando una variable primero ocurre lo de la derecha y luego la izquierda```
