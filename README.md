@@ -35,7 +35,7 @@
 
 * ``` DOM (Document Object Model) es la forma en que internamente el navegador organiza todo el HTML dentro de una estructura de árbol``` 
 
-* *** Los metodos son funciones dentro de objetos*** 
+* ***Los metodos son funciones dentro de objetos*** 
 
 * ```charset: coleccion de caracteres o letras```
 
