@@ -46,3 +46,5 @@
 * ID es el identificador con el que podemos encontrar etiquetas con JavaScript, los nombres siguen las mismas reglas que las variables
 
 * Podemos obtener un elemento con su id buscándolo con document.getElementById('nombre_id');
+
+* ```La funciones son una herramienta que nos permite escribir código que vamos a re-usar múltiples veces```
