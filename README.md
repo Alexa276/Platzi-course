@@ -47,4 +47,4 @@
 
 * Podemos obtener un elemento con su id buscándolo con document.getElementById('nombre_id');
 
-* ```La funciones son una herramienta que nos permite escribir código que vamos a re-usar múltiples veces```
+* ```Las funciones son una herramienta que nos permite escribir código que vamos a re-usar múltiples veces```
