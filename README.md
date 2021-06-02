@@ -43,3 +43,6 @@
 
 * Atributo o propiedad son variables internas que almacenan valores
  
+* ID es el identificador con el que podemos encontrar etiquetas con JavaScript, los nombres siguen las mismas reglas que las variables
+
+* Podemos obtener un elemento con su id buscándolo con document.getElementById('nombre_id');
