@@ -67,3 +67,7 @@
 *  La operación lógica and (y) se escribe en JavaScript con &&
 
 * ```Las clases son la definición de los objetos```
+
+* ***Algoritmo: Conjunto de instrucciones realizadas en orden para solucionar un problema.**+
+
+ * **Diagrama de flujo:Un diagrama de flujo es un diagrama que describe un proceso, sistema o algoritmo informático.**
