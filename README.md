@@ -51,3 +51,9 @@
 
 * ***Los eventos son funciones que suceden cuando algo ocurre,  sucesos cómo un click, pulsar una tecla, colocar el mouse sobre un botón, etc.***
 
+* 
+  ```   * Math.floor() devuelve el número entero por debajo de los decimales.  ```  
+
+  ```   * Math.ceil() devuelve el siguiente número entero arriba de los decimales  ```  
+
+   ```  * Math.random() devuelve un número aleatorio de 0 a 0.999..  ***  ```
