@@ -56,8 +56,12 @@
    * ``` Math.ceil() devuelve el siguiente número entero arriba de los decimales  ```  
    * ``` Math.random() devuelve un número aleatorio de 0 a 0.999.. ```
 
-   * ***Debemos agregar la imagen en el evento load del objeto.***
+*   ***Debemos agregar la imagen en el evento load del objeto.***
+*   ***Debemos usar el método .drawImage del canvas para insertar la imagen.***
+*   ***Canvas dibuja siempre encima del último objeto.***
 
-   * ***Debemos usar el método .drawImage del canvas para insertar la imagen.***
+*  Para calcular el módulo puedes usar %
  
-   * ***Canvas dibuja siempre encima del último objeto.***
+*  Los programas dividen los programas complejos en problemas pequeños
+
+*  La operación lógica and (y) se escribe en JavaScript con &&
