@@ -104,3 +104,22 @@
 
 * ***Arduinos y Rasperry Pi: Son basicamente ordenadores muy pequeños que podemos programar desde 0. En arduino se programa con C.***
 
+* ```Protoboard:es una placa de pruebas en los que se pueden insertar elementos electrónicos y cables con los que se arman circuitos sin la necesidad de soldar ninguno de los componentes```
+ 
+No existe el mejor lenguaje de programación, cada uno de ellos pasa por etapas de mejoras y actualizaciones, que lo hacen mejor o peor en cada iteración. Esta situación debe sonarte familiar, a menos que seas de los que prefiere los lenguajes interpretados, como Javascript.
+
+ * ***Python***
+Es un lenguaje de alto nivel que, a mi parecer, es de los más intuitivos e ideal para empezar a programar. Guido van Rossum tuvo la idea de crear un lenguaje tan limpio y sencillo para que hasta un niño tuviera una curva de aprendizaje intuitiva. Viene por defecto en Linux y Mac y con opción de correrlo en Windows.
+
+* ***Java***
+De segundo está Java. Sí, aquel lenguaje que amas u odias por ser estrictamente tipado y ser el corazón de mucho software corporativo. Sin embargo, muchos de los estándares y buenas prácticas de programación orientada a objetos nacieron de Java. Y es el encargado de traernos aplicaciones a Android.
+
+* ***Ruby***
+Tenemos después a Ruby. He de confesar que no he tenido un acercamiento fuerte a este lenguaje; pero he visto muchas cosas interesantes en web gracias a Ruby on Rails.
+
+* ***C++/C***
+La popularidad de este lenguaje no le hace justicia a su importancia. Es difícil de aprender, pero sin él muchos de los lenguajes actuales no existirían. Es el más fuerte de todos y, si algún día llegas a comprenderlo en su totalidad, entender los otros lenguajes será pan comido.
+
+* ***JavaScript***
+El tan versátil JavaScript, que no sólo vive en los navegadores y nos permite crear todo el flujo de interacción de nuestros websites; sino que se puede usar en cualquier capa de un proyecto: Front-end, Backend, Bases de Datos, Internet of Things, etc.
+
