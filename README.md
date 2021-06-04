@@ -89,3 +89,5 @@
 ```Si tuvieras un código en el Frontend que se conectara a una base de datos, esta seria visible para todos.```
  
  * ***NodeJS es un runtime para poder correr JavaScript sin un navegador.***
+
+ * ```Arduino: es una placa impresa con los componentes necesarios para que funcione el microcontrolador y su comunicación con un ordenador a través de la comunicación serial.```
