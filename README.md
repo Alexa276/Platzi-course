@@ -91,3 +91,16 @@
  * ***NodeJS es un runtime para poder correr JavaScript sin un navegador.***
 
  * ```Arduino: es una placa impresa con los componentes necesarios para que funcione el microcontrolador y su comunicación con un ordenador a través de la comunicación serial.```
+
+ * ***Lenguajes de Bajo Nivel : Lenguajes cuyas interpretaciones están mas cerca al lenguaje maquina permitiendo tener una mayor interacción y velocidad con el hardware ej: C , C++.***
+
+* ***Lenguajes de Alto Nivel : Lenguajes con instrucciones mas fáciles de escribir y leer para una persona que requieren interpretes para convertirse en lenguaje maquina ej: Ruby , Python , JavaScript.***
+
+* ***C: Es un lenguaje de bajo nivel lo puedes ver en el curso de algoritmos. De este lenguaje se derivan Java, Javascript, C#, unity 3D, etc.***
+
+* ***Unity 3D: Funciona con JS o C#, puedes crear con el juegos como pokemon Go o juegos de VR.***
+
+* ***Java: Se parece a JS pero es de menos nivel.***
+
+* ***Arduinos y Rasperry Pi: Son basicamente ordenadores muy pequeños que podemos programar desde 0. En arduino se programa con C.***
+
