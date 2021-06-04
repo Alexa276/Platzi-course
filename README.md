@@ -88,3 +88,4 @@
 
 ```Si tuvieras un código en el Frontend que se conectara a una base de datos, esta seria visible para todos.```
  
+ * ***NodeJS es un runtime para poder correr JavaScript sin un navegador.***
